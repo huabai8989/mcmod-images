@@ -4,9 +4,7 @@ Public static image assets for the MC China Edition Mod Wiki.
 
 ## Direct URL
 
-`https://cdn.jsdelivr.net/gh/${GITHUB_USER}/mcmod-images@main/images/ui/jsdelivr-check.svg`
-
-Replace `${GITHUB_USER}` with the repository owner's GitHub username.
+`https://cdn.jsdelivr.net/gh/huabai8989/mcmod-images@main/images/ui/jsdelivr-check.svg`
 
 ## Directories
 
