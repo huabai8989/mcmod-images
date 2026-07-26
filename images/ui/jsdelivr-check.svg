@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180">
+  <rect width="320" height="180" fill="#151b23"/>
+  <path d="M62 94l24 24 58-64" fill="none" stroke="#3fb950" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="164" y="92" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="22" text-anchor="middle">jsDelivr ready</text>
+  <text x="164" y="122" fill="#8b949e" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">mcmod-images</text>
+</svg>
